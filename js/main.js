@@ -50,6 +50,6 @@ function add(){
     var txt = document.createTextNode("Item");
     elem.appendChild(txt);
     document.getElementById("list").appendChild(elem);
-    x++;
+
 }
 
